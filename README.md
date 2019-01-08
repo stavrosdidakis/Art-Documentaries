@@ -9,7 +9,7 @@ The  following article provides a list of selected documentaries about the conte
 
 This documentary illustrates the life and work of artist and activist Ai Weiwei, focusing on his clashes with the Chinese government as he demands for social justice and transparency. A retrospective of Weiwei's work is presented, and how his ideas have been shaped by his need for social activism and change. The works that are highly provocative, have attracted a lot of international attention, making Weiwei a leading artist in contemporary art.
 
-![alt text](assets/weiwei.jpg)
+<img alt="weiwei" src="images/stories/blogPics/ArtDocs/weiwei.jpg" width="480" height="702" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" />
 
 ---
 
