@@ -9,7 +9,9 @@ The  following article provides a list of selected documentaries about the conte
 
 This documentary illustrates the life and work of artist and activist Ai Weiwei, focusing on his clashes with the Chinese government as he demands for social justice and transparency. A retrospective of Weiwei's work is presented, and how his ideas have been shaped by his need for social activism and change. The works that are highly provocative, have attracted a lot of international attention, making Weiwei a leading artist in contemporary art.
 
-<img alt="weiwei" src="assets/weiwei.jpg" width="480" height="702" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" />
+<p align="center">
+<img alt="weiwei" src="assets/weiwei.jpg" width="480" />
+</p>
 
 ---
 
@@ -18,7 +20,9 @@ This documentary illustrates the life and work of artist and activist Ai Weiwei,
 
 Marina Abramovic is regarded as one of the most important artists of the last half of the century, redefining and pushing the boundaries of what art is. Her works are highly provocative and moving, as she puts her physical and mental states at risk. The documentary mainly focus on her Museum of Modern Art exhibition in 2010 - The Artist is Present - and how her previous work and life have led to this iconic performance.
 
-![alt text](assets/abramovic.jpg)
+<p align="center">
+<img alt="abramovic" src="assets/abramovic.jpg" width="480" />
+</p>
 
 ---
 
@@ -27,7 +31,9 @@ Marina Abramovic is regarded as one of the most important artists of the last ha
 
 This film captures the work and life of Cai Guo-Qiang, whose frequent use of gunpowder serves as both an ancestral homage and an acknowledgement of humanity's fleeting nature. Creating ambitious signature pieces on the largest imaginable scales, Cai's electrifying work often transcends physical permanence all while burning its philosophies into the audience's mind forever. Told through the artist's own words and those of family, friends and vigilant observers, Cai tracks his meteoric rise and examines how and why he engineers artworks that stretch as far as the eye can see and wow millions. (Review from [Rotten Tomatoes](https://www.rottentomatoes.com/m/sky_ladder_the_art_of_cai_guo_qiang_2016))
 
-![alt text](assets/caiguo-qiang.jpg)
+<p align="center">
+<img alt="caiguo-qiang" src="assets/caiguo-qiang.jpg" width="480" />
+</p>
 
 ---
 
@@ -36,7 +42,9 @@ This film captures the work and life of Cai Guo-Qiang, whose frequent use of gun
 
 A collection of interviews with painter Francis Bacon, discussing in his London studio with David Sylvester about his life, inspirations, and meaning of work. Bacon rationalizes the problems of realism, and explains his obsessive effort to capture and reshape the human form into distorted visual masterpieces.
 
-![alt text](assets/bacon.jpg)
+<p align="center">
+<img alt="bacon" src="assets/bacon.jpg" width="480" />
+</p>
 
 ---
 
@@ -46,7 +54,9 @@ A collection of interviews with painter Francis Bacon, discussing in his London 
 
 Brilliant Ideas is a documentary TV series on the world’s most exciting art personalities, produced by MAKE Productions (London/Singapore) and funded by Hyundai. The series is available on Bloomberg TV and profiles a living contemporary artist in each half hour episode, with 75 episodes in total. The documentary is shot in multiple locations around the world to explore the true impact of their stories within the geographical, cultural, and historical context.
 
-![alt text](assets/brilliantIdeas.png)
+<p align="center">
+<img alt="brilliantIdeas" src="assets/brilliantIdeas.png" width="480" />
+</p>
 
 ---
 
@@ -56,7 +66,9 @@ The film documents Maurizio from his early days to the recent Guggenheim retrosp
 
 [IMDB link](https://www.imdb.com/title/tt5509780), [Amazon](https://www.amazon.com/Maurizio-Cattelan-Be-Right-Back/dp/B074MG3VRT/)
 
-![alt text](assets/cattelan.jpg)
+<p align="center">
+<img alt="cattelan" src="assets/cattelan.jpg" width="480" />
+</p>
 
 ---
 
@@ -65,7 +77,9 @@ The film documents Maurizio from his early days to the recent Guggenheim retrosp
 
 This eye-opening documentary peels back the layers of the art world economy- from production to circulation, and delineates every integral player in the game of art-making, including curators, gallerists, collectors, donors, auction houses, and … artists. Featuring extraordinary access to industry players and candid statements from prominent artists like Damien Hirst, Julian Schnabel, Taryn Simon, and Marina Abramovic, Blurred Lines collides the two narratives of the art world as both above and beholden to market forces. (Review from [Tribecafilm](https://www.tribecafilm.com/filmguide/blurred-lines-inside-the-art-world-2017))
 
-![alt text](assets/blurredlines.jpg)
+<p align="center">
+<img alt="blurredlines" src="assets/blurredlines.jpg" width="480" />
+</p>
 
 ---
 
@@ -74,7 +88,9 @@ This eye-opening documentary peels back the layers of the art world economy- fro
 
 Filmed over nearly three years, WASTE LAND follows renowned artist Vik Muniz as he journeys from his home base in Brooklyn to his native Brazil and the world's largest garbage dump, Jardim Gramacho, located on the outskirts of Rio de Janeiro. There he photographs an eclectic band of "catadores" -- or self-designated pickers of recyclable materials. Muniz's initial objective was to "paint" the catadores with garbage. However, his collaboration with these inspiring characters as they recreate photographic images of themselves out of garbage reveals both dignity and despair as the catadores begin to re-imagine their lives. (Review from [Rotten Tomatoes](https://www.rottentomatoes.com/m/waste_land))
 
-![alt text](assets/wasteland.jpg)
+<p align="center">
+<img alt="wasteland" src="assets/wasteland.jpg" width="480" />
+</p>
 
 ---
 
@@ -83,7 +99,9 @@ Filmed over nearly three years, WASTE LAND follows renowned artist Vik Muniz as 
 
 Agnès Varda and JR have in common a great passion for and the exploration of images and more precisely, for places and for ways of showing, sharing, and exhibiting them. The two artists set out in JR’s photo booth-enhanced truck, exploring the villages and small towns of rural France and meeting its humble residents – all the while creating large-scale portraits plastered across unconventional locations.
 
-![alt text](assets/facesplaces.jpg)
+<p align="center">
+<img alt="facesplaces" src="assets/facesplaces.jpg" width="480" />
+</p>
 
 ---
 
@@ -119,6 +137,7 @@ https://www.youtube.com/watch?v=KZ08bce18gk
 ---
 
 **Design**
+
 Escher
 https://escher.ntr.nl/en/
 
